@@ -1,0 +1,10 @@
+
+r	java:S117T"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•‰’Õûÿÿÿÿ8ÿšŽ£Ð1
+r	java:S117T"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•‰’Õûÿÿÿÿ8‚›Ž£Ð1
+r	java:S117T"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•‰’Õûÿÿÿÿ8ƒ›Ž£Ð1
+m	java:S117_"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’¦Ô¬8…›Ž£Ð1
+m	java:S117_"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’¦Ô¬8‡›Ž£Ð1
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(öËöó
+\
+java:S1118":Add a private constructor to hide the implicit public one.(Ã¢¿…ûÿÿÿÿ8 ›Ž£Ð1
+X	java:S125"<This block of commented-out lines of code should be removed.(€®”¬8¦›Ž£Ð1

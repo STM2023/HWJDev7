@@ -1,0 +1,12 @@
+
+e
+java:S1192"HDefine a constant instead of duplicating this literal "Trainee" 3 times.(·“Ç8¶Ì£Ğ1
+d
+java:S1192"GDefine a constant instead of duplicating this literal "Junior" 5 times.(êäƒ¸8·Ì£Ğ1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬“Ñ®ıÿÿÿÿ8·Ì£Ğ1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…—«ûÿÿÿÿ8·Ì£Ğ1
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ïö‘‡ûÿÿÿÿ
+G	java:S106*"+Replace this use of System.out by a logger.(ôÆ“„8ÀÌ£Ğ1
+L	java:S1060"+Replace this use of System.out by a logger.(²€åùıÿÿÿÿ8ÁÌ£Ğ1
+L	java:S1067"+Replace this use of System.out by a logger.(»—ÖŸÿÿÿÿÿ8ÃÌ£Ğ1
+L	java:S106?"+Replace this use of System.out by a logger.(÷ëİûÿÿÿÿ8ÅÌ£Ğ1
